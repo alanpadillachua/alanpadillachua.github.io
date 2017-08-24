@@ -15,4 +15,4 @@ weight = 20
 +++
 
 
-[Resume](/resume/current_resume.pdf)
+[Resume](/~axp141330/resume/current_resume.pdf)
