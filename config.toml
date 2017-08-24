@@ -1,5 +1,5 @@
 baseurl = "https://alanpadillachua.github.io/"  # End your URL with a `/` trailing slash.
-title = "Academic"
+title = "Alan Padilla Chua"
 copyright = "&copy; 2017 Alan Padilla"
 theme = "academic"
 enableEmoji = true
@@ -26,11 +26,10 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "axp141330@utdallas.edu"
+  address = "800 W Campbell Rd, Richardson, TX 75080"
+  phone = "2143346129"
+  skype = "axp141330"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -127,22 +126,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:axp141330@utdallas.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "//twitter.com/twinkle_dad"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/alanpadillachua"
 
 
 # Navigation Links
