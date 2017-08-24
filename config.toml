@@ -139,7 +139,7 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/alanpadillachua"
   
   [[param.social]]
-    icon = "linkedin"
+    icon = "fa-linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/alan-padilla-chua"
 
