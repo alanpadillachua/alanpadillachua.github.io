@@ -14,4 +14,4 @@ weight = 20
 
 +++
 
-[Current Resume](/content/resume/current_resume.pdf)
+[Resume](/content/resume/current_resume.pdf)
