@@ -137,6 +137,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/alanpadillachua"
+  
+  [[param.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/alan-padilla-chua"
 
 
 # Navigation Links
