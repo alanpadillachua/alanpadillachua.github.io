@@ -4,6 +4,7 @@ copyright = "&copy; 2017 Alan Padilla"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+publishDir = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
