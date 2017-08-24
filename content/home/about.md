@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-08-23T00:00:00"
 draft = false
 
 widget = "about"
@@ -12,31 +12,27 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cyber Security",
+    "Reverse Engineering",
+    "Network Security",
+    "Malware Analysis",
+    "Software Development"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Computer Science"
+  institution = "The University of Texas at Dallas"
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Computer Science"
+  institution = "The University of Texas at Dallas"
+  year = 2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Alan Padilla is currently a fast-track student at The University of Texas at Dallas. He is on track to complete his bachelor's degree Fall 2017 and continue on with his graduate degree in Spring of 2019. He is a recipient of the NSF Cyber Corps Scholarship For Service. He is Treasurer for the Computer Security Group, which is a club that is dedicated to education and furthering of skills in the cyber security field.
