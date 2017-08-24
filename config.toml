@@ -127,7 +127,8 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:axp141330@utdallas.edu"
-  [[param.social]]
+  
+  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/alan-padilla-chua"
