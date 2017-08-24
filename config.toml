@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+baseurl = "https://alanpadillachua.github.io/"  # End your URL with a `/` trailing slash.
 title = "Academic"
 copyright = "&copy; 2017 Alan Padilla"
 theme = "academic"
@@ -21,8 +21,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Alan Padilla Chua"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  role = "Graduate Student"
+  organization = "The University of Texas at Dallas"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
