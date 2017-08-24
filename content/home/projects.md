@@ -26,12 +26,12 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Cyber Security"
+  tag = ".cyber-security"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Software Development"
+  tag = ".software-development"
 
 +++
 
