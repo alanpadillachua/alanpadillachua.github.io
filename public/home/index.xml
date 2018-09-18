@@ -8,7 +8,45 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alan Padilla</copyright>
     <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~axp141330/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.utdallas.edu/~axp141330/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.utdallas.edu/~axp141330/home/about/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.utdallas.edu/~axp141330/home/about/</guid>
+      <description>Biography I am currently a graduate student at The University of Texas at Dallas, and on track to complete my graduate degree in Spring of 2019. I am also a recipient of the NSF Cyber Corps Scholarship For Service. I am an Officer for the Computer Security Group, which is a student organization at UTD, that is dedicated to education and furthering of skills in the cyber security field.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://www.utdallas.edu/~axp141330/home/resume/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.utdallas.edu/~axp141330/home/resume/</guid>
+      <description>Resume</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.utdallas.edu/~axp141330/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.utdallas.edu/~axp141330/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.utdallas.edu/~axp141330/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.utdallas.edu/~axp141330/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

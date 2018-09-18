@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alan Padilla</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~axp141330/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.utdallas.edu/~axp141330/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

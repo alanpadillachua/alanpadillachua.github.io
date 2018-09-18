@@ -16,7 +16,7 @@ weight = 1
     "Reverse Engineering",
     "Network Security",
     "Malware Analysis",
-    "Software Development"
+    "Cyber Security Tool Development"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 1
 
 # Biography
 
-Alan Padilla is currently a fast-track student at The University of Texas at Dallas. He is on track to complete his bachelor's degree Fall 2017 and continue on with his graduate degree in Spring of 2019. He is a recipient of the NSF Cyber Corps Scholarship For Service. He is Treasurer for the Computer Security Group, which is a student organization at UTD, that is dedicated to education and furthering of skills in the cyber security field.
+I am currently a graduate student at The University of Texas at Dallas, and on track to complete my graduate degree in Spring of 2019. I am also a recipient of the NSF Cyber Corps Scholarship For Service. I am an Officer for the Computer Security Group, which is a student organization at UTD, that is dedicated to education and furthering of skills in the cyber security field.
