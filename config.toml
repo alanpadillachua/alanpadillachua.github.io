@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Alan Padilla Chua"
-  role = "Undergraduate Student"
+  role = "Graduate Student"
   organization = "The University of Texas at Dallas"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
